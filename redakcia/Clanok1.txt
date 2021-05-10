@@ -5,3 +5,7 @@ Datum: 6.9.2021
 Z denníku SME sme sa dozvedeli, že film Terminátor 2,
 v ktorom hrál Arnold Schwarzenegger bral veľa nápadov
 z reálnych modelov raketoplánov.
+----
+Zistili sme, že autor tohto textu sa mýlil!
+Raketoplány brali práve naopak inšpiráciu 
+z filmu Terminátor 2.
